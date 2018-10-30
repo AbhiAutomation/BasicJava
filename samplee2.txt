@@ -1,0 +1,23 @@
+ Volume in drive C is win
+ Volume Serial Number is 0683-D603
+
+ Directory of C:\Users\sir\workspace\AugJava\src
+
+10/30/2018  01:56 PM    <DIR>          .
+10/30/2018  01:56 PM    <DIR>          ..
+10/30/2018  01:31 PM             1,980 DuplicateElements.class
+10/14/2018  12:44 PM             1,801 DuplicateElements.java
+10/26/2018  06:11 AM               560 HashT.java
+10/30/2018  01:31 PM               836 MissingNumber.class
+08/29/2018  05:51 AM               458 MissingNumber.java
+08/28/2018  06:48 AM               353 RemoveJunk.java
+08/28/2018  07:25 AM               388 ReverseInt.java
+08/28/2018  06:48 AM               820 ReverseString.java
+10/30/2018  12:49 PM             1,003 sample.txt
+10/30/2018  01:56 PM                 0 samplee2.txt
+08/28/2018  04:02 PM               637 SmallestLargestNumber.java
+09/18/2018  02:27 PM             2,341 StringManuplation.java
+08/28/2018  05:46 PM               349 StringSwap.java
+08/28/2018  05:37 PM               286 SwapVairble.java
+              14 File(s)         11,812 bytes
+               2 Dir(s)   4,668,235,776 bytes free
