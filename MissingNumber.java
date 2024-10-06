@@ -18,6 +18,7 @@ public class MissingNumber {
 			sum1=sum1+j; 
 		}
 		System.out.println(sum1);
+		//Gaurav is explainig git 
 		
 		System.out.println("Missing number is " +(sum1 -sum));
 		
